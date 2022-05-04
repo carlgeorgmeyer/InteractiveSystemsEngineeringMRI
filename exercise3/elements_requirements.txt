@@ -1,0 +1,37 @@
+Elements:
+	Doctor/Nurse
+	Patient
+	System Provider
+
+	Display
+	Sensors
+	Speaker
+	Storage Device (SSD/HDD)
+	Buttons
+	Cart
+	Medical Instruments
+
+Requirements:
+	Doctor/Nurse is qualified
+	System Provider is able to repair and maintain system
+
+	Device works (obviously)
+		Failsafe
+	Simplicity
+	Electricity
+	
+	Display:
+		High enough resolution
+		Readibility
+	Sensors:
+		Record
+		Accurate readings
+	Speaker:	
+		Audible
+	Storage Device:
+		Store
+	Buttons:
+		Feedback
+	Cart:
+		Compact
+		Wheels
