@@ -10,6 +10,7 @@ Elements:
 	Buttons
 	Cart
 	Medical Instruments
+	Database
 
 Requirements:
 	Doctor/Nurse is qualified
