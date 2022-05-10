@@ -1,3 +1,10 @@
+Google search: vital sign monitoring devices
+
+    prices range from 120€ to over 2500€ for pressional devices
+
+--------------------------------------------------------------------------------------------------------------------
+
+
 https://pharmaledger.eu/news/3-pharmaledgers-iot-medical-device-use-case/#:~:text=PharmaLedger's%20IoT%20Medical%20Devices%20use,effective%20solutions%20to%20patients%20faster.
 
 devices often seperated
@@ -20,3 +27,41 @@ utilize blockchain tech
     trusted and verifiable
     decentralized
     transparency on ownership
+    
+--------------------------------------------------------------------------------------------------------------------
+
+
+https://www.healthrecoverysolutions.com/blog/7-common-remote-patient-monitoring-devices
+
+ECG
+
+  ECG captures heart function
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+https://www.medicalexpo.com/medical-manufacturer/vital-signs-monitor-16827.html
+
+multiple manufactures
+    Huntleigh
+    Comen
+    Lepu Medical
+    Nothern
+    Radiometer
+    Nihon Kohden
+    Spacelabs
+    ....
+    
+--------------------------------------------------------------------------------------------------------------------
+
+https://infiniummedical.com/vital-signs-monitoring-devices/
+
+infinium
+    adaptable
+    configureable
+    display important vital signs
+    can be used as a "pulse oximeter" or configured to monitor:
+        NIBP/SpO2/Temperature
+        Capnography/Sp02/NIBP
+        End tidal CO2
+        ...
