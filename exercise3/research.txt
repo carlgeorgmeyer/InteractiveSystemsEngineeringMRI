@@ -1,0 +1,22 @@
+https://pharmaledger.eu/news/3-pharmaledgers-iot-medical-device-use-case/#:~:text=PharmaLedger's%20IoT%20Medical%20Devices%20use,effective%20solutions%20to%20patients%20faster.
+
+devices often seperated
+    inefficient
+    
+IoT
+    remote monitoring
+    improve patients outcomes
+    patient can stay at home
+    
+    Advantages
+        real time monitoring
+        decrease amount of hospital visits
+
+electrical diary
+centralised information gathering
+
+utilize blockchain tech
+    cyber security
+    trusted and verifiable
+    decentralized
+    transparency on ownership
