@@ -19,6 +19,7 @@ Requirements:
 		Failsafe
 	Simplicity
 	Electricity
+	Internet connection
 	
 	Display:
 		High enough resolution
